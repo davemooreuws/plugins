@@ -1,4 +1,5 @@
 name: aws-cloudfront
+icon: icon.svg
 type: entrypoint
 deployment:
   # NOTE: // is required to reference a sub-path of repository for terraform modules

@@ -1,4 +1,5 @@
 name: aws-iam-role
+icon: icon.svg
 type: identity
 identity_type: aws:iam:role
 deployment:

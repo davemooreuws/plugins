@@ -1,4 +1,5 @@
 name: aws-s3-bucket
+icon: icon.svg
 type: storage
 required_identities:
   - aws:iam:role

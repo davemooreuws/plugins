@@ -1,4 +1,5 @@
 name: aws-loadbalancer
+icon: icon.svg
 type: infra
 deployment:
   # NOTE: // is required to reference a sub-path of repository for terraform modules

@@ -1,4 +1,5 @@
 name: aws-lambda
+icon: icon.svg
 type: service
 required_identities:
   - aws:iam:role
